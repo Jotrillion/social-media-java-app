@@ -64,3 +64,13 @@ java -cp out Main
 - [Scanner Class](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Scanner.html)
 - [LocalDateTime Class](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/time/LocalDateTime.html)
 - [Collections Framework Overview](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/doc-files/coll-overview.html)
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+
+- Add persistent storage so users, posts, and follows survive after the app closes.
+- Build a web frontend and REST API so the project becomes a true full-stack application.
+- Add authentication with passwords, session handling, and better account security.
+- Improve the feed with pagination, search, and sorting filters.
+- Add profile images, post editing, and post deletion.
