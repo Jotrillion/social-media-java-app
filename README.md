@@ -49,7 +49,7 @@ java -cp out Main
 
 # Software Demo Video
 
-- Software Demo Video: not added yet
+- Software Demo Video: (https://youtu.be/KOLh6vtRZfk)
 
 # Development Environment
 
